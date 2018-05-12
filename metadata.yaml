@@ -21,6 +21,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30266#Tales-from--Blackwood---Volume-7
 gutenberg_issued: '2009-10-16'
 gutenberg_type: Text
 identifiers:
