@@ -1,0 +1,42 @@
+_repo: Tales-from--Blackwood---Volume-7_30266
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Hardman, Frederick
+    birthdate: 1814
+    deathdate: 1874
+    gutenberg_agent_id: '34922'
+    url: http://www.gutenberg.org/2009/agents/34922
+    wikipedia: http://es.wikipedia.org/wiki/Frederick_Hardman
+  - agent_name: Doubleday, Thomas
+    birthdate: 1790
+    deathdate: 1870
+    gutenberg_agent_id: '34921'
+    url: http://www.gutenberg.org/2009/agents/34921
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Doubleday
+  - agent_name: Willis, Herbert
+    gutenberg_agent_id: '34920'
+    url: http://www.gutenberg.org/2009/agents/34920
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2009-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30266'
+language: en
+publication_note: 'Edinburgh and London: William Blackwood and Sons, 1848'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PR'
+tableOfContents: 'My English acquaintance, by F. Hardman -- The murderer''s last night,
+  by T. Doubleday -- Narration of certain uncommon things that did formerly happen
+  to me, Herbert Willis, B. D. -- The wags -- The wet wooing: a narrative of ''98
+  -- Ben-na-groich.'
+title: Tales from "Blackwood," Volume 7
+url: http://www.gutenberg.org/ebooks/30266
